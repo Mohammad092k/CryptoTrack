@@ -26,7 +26,7 @@ A comprehensive dashboard for tracking cryptocurrency prices, trends, and other 
 
    - Pagination: Implements pagination for easy navigation through multiple pages of data.
 
-   - Currency Conversion: Enables users to change the currency in which coin prices are displayed.
+   - Currency Conversion: Enables users to change the currency in which coin prices are displayed by using INTL Number Format API.
    
 # Contributing
 We welcome contributions! To contribute, follow these steps:
