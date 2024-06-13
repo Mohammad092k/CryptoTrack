@@ -1,6 +1,8 @@
 # Amazing CryptoTracker Responsive Project: ⭐Implement Features using React JS CoinGecko API Chart JS with Tailwind CSS
 
 ![GitHub stars](https://img.shields.io/github/stars/Mohammad092k/CryptoTrack?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/Mohammad092k/CryptoTrack?style=for-the-badge&logo=github&label=Stars)&nbsp;&nbsp;
+
 ![GitHub forks](https://img.shields.io/github/forks/Mohammad092k/CryptoTrack?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/Mohammad092k.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
