@@ -3,13 +3,8 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Mohammad092k/CryptoTrack?style=for-the-badge&logo=github&label=Stars)&nbsp;&nbsp;
 
-![GitHub forks](https://img.shields.io/github/forks/Mohammad092k/CryptoTrack?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/Mohammad092k.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
 This repository contains the fully responsive React JS Project  <br />
-
-For Demo and Final Code checkout following link👇: <br />
-[Crypto Track](https://crypto-track-mk1617.netlify.app/) <br />
 
 # Key Features of the Project 
 A comprehensive dashboard for tracking cryptocurrency prices, trends, and other relevant data.
